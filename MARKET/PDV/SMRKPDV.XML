@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO8859-1"?>
+<DAXXI>
+   <APLICACAO>
+      <NOME>MRKPDV</NOME>
+      <VERSAO>1.9.3.24c</VERSAO>
+      <MODULOS>
+         <MODULO>
+            <NOME>MRKPDV</NOME>
+            <ARQUIVO>BIN\PMrkPdv.exe</ARQUIVO>
+            <VERSAO>1.9.3.24c</VERSAO>
+         </MODULO>
+         <MODULO>
+            <NOME>DPDVMARK</NOME>
+            <ARQUIVO>BIN\PMARKET.DLL</ARQUIVO>
+            <VERSAO>1.0.0.0</VERSAO>
+         </MODULO>
+         <MODULO>
+            <NOME>MRKSAT</NOME>
+            <ARQUIVO>BIN\PMRKSAT.DLL</ARQUIVO>
+            <VERSAO>0.9.0.0</VERSAO>
+         </MODULO>
+      </MODULOS>
+   </APLICACAO>
+</DAXXI>
