@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO8859-1"?>
+<DAXXI>
+   <APLICACAO>
+      <NOME>MRKRET</NOME>
+      <BASE>C:\daxxi\MARKET\RET\</BASE>
+      <RBASE>versao\ret\</RBASE>
+      <LBASE>versao\</LBASE>
+      <SOURCE>SMRKRET</SOURCE>
+      <VERSAO>1.9.7.34b</VERSAO>
+      <MODULOS>
+         <MODULO>
+            <NOME>MRKRET</NOME>
+            <ARQUIVO>BIN\PMrkRet.exe</ARQUIVO>
+            <VERSAO>1.9.7.34b</VERSAO>
+         </MODULO>
+         <MODULO>
+            <NOME>MRKREPDLL</NOME>
+            <ARQUIVO>BIN\PMrkRep.dll</ARQUIVO>
+            <VERSAO>1.0.1.0</VERSAO>
+         </MODULO>
+         <MODULO>
+            <NOME>MRKDLL</NOME>
+            <ARQUIVO>BIN\PMarket.dll</ARQUIVO>
+            <VERSAO>1.0.0.1</VERSAO>
+         </MODULO>
+      </MODULOS>
+   </APLICACAO>
+</DAXXI>
