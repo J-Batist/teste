@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO8859-1"?>
+<DAXXI>
+   <APLICACAO>
+      <NOME>SINC</NOME>
+      <BASE>C:\daxxi\Central\Sincronize\</BASE>
+      <RBASE>versao\Central\Sincronize\</RBASE>
+      <LBASE>versao\</LBASE>
+      <SOURCE>RSincronize</SOURCE>
+      <VERSAO>0.9.2.0</VERSAO>
+      <MODULOS>
+         <MODULO>
+            <NOME>SINC</NOME>
+            <ARQUIVO>BIN\PSincronize.exe</ARQUIVO>
+            <VERSAO>0.9.2.0</VERSAO>
+         </MODULO>
+         <MODULO>
+            <NOME>CONF003</NOME>
+            <ARQUIVO>..\DAT\conf003.sys</ARQUIVO>
+            <VERSAO>0.9.1.0</VERSAO>
+         </MODULO>
+      </MODULOS>
+   </APLICACAO>
+</DAXXI>
