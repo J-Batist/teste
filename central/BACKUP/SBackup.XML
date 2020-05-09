@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO8859-1"?>
+<DAXXI>
+   <APLICACAO>
+      <NOME>BACKUP</NOME>
+      <BASE>C:\daxxi\Central\Backup\</BASE>
+      <RBASE>versao\Central\Backup</RBASE>
+      <LBASE>versao\</LBASE>
+      <SOURCE>RBackup</SOURCE>
+      <VERSAO>0.9.6.1</VERSAO>
+      <MODULOS>
+         <MODULO>
+            <NOME>BACKUP</NOME>
+            <ARQUIVO>BIN\PBackup.exe</ARQUIVO>
+            <VERSAO>0.9.6.1</VERSAO>
+         </MODULO>
+         <MODULO>
+            <NOME>CONF001</NOME>
+            <ARQUIVO>..\DAT\conf001.sys</ARQUIVO>
+            <VERSAO>0.9.0.0</VERSAO>
+         </MODULO>
+      </MODULOS>
+   </APLICACAO>
+</DAXXI>
